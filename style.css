@@ -1,0 +1,17 @@
+#hero #hero-bg{
+    background-image: url(https://www.w3schools.com/w3images/architect.jpg);
+    height: 90vh;
+    background-size: cover;
+    background-position: center;
+}
+#ali-word{
+    background-color: rgba(0, 0, 0, 0.7);
+    display: inline-block;
+    padding: 7px;
+}
+#about img{
+    filter: grayscale(0.7);
+}
+#map img{
+    filter:brightness(0.7)
+}
